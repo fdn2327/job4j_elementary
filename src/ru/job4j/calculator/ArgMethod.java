@@ -7,7 +7,8 @@ public class ArgMethod {
     }
 
     public static void main(String[] args) {
-        String name = "Roman Denisiuk";
+        String name = "Petr Arsentev";
+        int age = 37;
         ArgMethod.hello(name);
     }
 }
