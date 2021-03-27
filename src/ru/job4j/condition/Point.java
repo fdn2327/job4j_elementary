@@ -11,7 +11,7 @@ public class Point {
     }
 
     public static void main(String[] args) {
-        double result = Point.distance(0,0,2,0);
-        System.out.println("result (0, 0) to (2, 0) " + result);
+        double result = Point.distance(7,3,-5,3);
+        System.out.println("result from (x1, y1) to (x2, y2) " + result);
     }
 }
